@@ -1,1 +1,1 @@
-
+A Cross-Platform based application to fetch weather data from APIs of Open Weather Map and retrieve data in .json format and with a beautiful UI of this app and lots of user interaction with finding the weather of city names in a search box.
